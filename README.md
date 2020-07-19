@@ -18,6 +18,6 @@ Carrier | China-Unicom/Open
 
   Way to write own built recovery image  
   Via FastBoot  
-  Press \# Button with Power Button,you can get frozen screen.it's into fastboot mode,you can run "fastboot oem unlock" to unlock bootloader and run "fastboot flash" to flash you  own built recovery image.  
+  Press \# Button with Power Button,you can get frozen screen.it's into fastboot mode,you can run "fastboot oem unlock" to unlock bootloader and run "fastboot flash" to flash you own built recovery image.  
   Via QDLoader  
   Press \* Button with \# Button and plug-in USB Cable,it's goto firehose mode.you can use any firehose executed file for MSM8909 platform to write and read partition.By the way,This device don't have secure boot.
